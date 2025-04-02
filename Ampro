@@ -1,2 +1,16 @@
 #AMPRO - APP ; AMATEUR TO PROFESSIONAL FOOTBALL (SOCCER) SIMULATION DATABASE
 ###PROJECT OVERVIEW
+In order to complete the task of the application, I tried to first develop a database that will enable us provide insights into the attributes of current professional footballers in the world. This will provide the sample for which we can make predictions. 
+The database will have key information such as the current earnings of players, their current teams, current playing positions, their attributes such as their height, weight, preferred foot, defending, attacking, stamina, strength, speed among others. 
+The dataset will also be improved through inputs by some users who will enter their attributes such as their height, weight and other parameters who will want to predict their chances of playing for certain football teams. 
+Finally, the development and hosting of the application that will allow the data to be analyzed to make predictions and prescriptions for amateur footballers to become professionals in the near future.
+
+####
+
+###TOOLS
+ -MySQL :Database and analysis 
+```sql
+SELECT * FROM table 1 
+WHERE For 2;
+```
+ -Draw.io 
