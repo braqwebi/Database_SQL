@@ -10,6 +10,7 @@ TABLE OF CONTENTS
 
 
 **PROJECT OVERVIEW**
+![Picture of AMPRO database](https://github.com/user-attachments/assets/ea9ef1c1-5160-4f8c-93b9-93f3e78ad2be)
 
 In order to complete the task of the application, I  first developed a database that will enable us provide insights into the attributes of current professional footballers in the world. This will provide the sample for which we can make predictions. 
 The database will have key information such as the current earnings of players, their current teams, current playing positions, their attributes such as their height, weight, preferred foot, defending, attacking, stamina, strength, speed among others. 
@@ -41,6 +42,9 @@ Football clubs and teams will have the ability to follow players that match thei
 The football associations will use this application to compile youth players and track their growth over time. The association can focus on amateur football using this application by getting a compilation of the data. They can will access the names, age, attributes and physical details of all members within their jurisdiction. 
 
 
+![Screenshot of Output 1](https://github.com/user-attachments/assets/5180ae53-04c7-4d63-9043-4ed0717de68c)
+
+![Screenshot of Output 2](https://github.com/user-attachments/assets/3df1703d-3a9f-46e4-a08a-c788572712fb)
 
 **CODES**
  ```sql
